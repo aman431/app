@@ -58,19 +58,87 @@
 {
     position: relative;
     width: 100%;
+    height: auto;
     top: -20px;
 }
 .content
 {
     margin-left: 20px;
+    margin-right: 20px;
 }
 .content p
 {
     position: relative;
     color: white;
-    font-family: cursive;
     text-transform: uppercase;
+    font-family: sans-serif;
     font-weight: bold;
     font-size: 25px;
-    top: -40px;
+    margin-bottom: 20px;
+    top: 30px;
+}
+.content .formed
+{
+    position: relative;
+    font-size: 10px;
+    font-weight: normal;
+    color: #808080;
+    text-transform: none;
+}
+.content .Intro
+{
+    position: relative;
+    font-size: 12px;
+    text-transform: none;
+    font-weight: normal;
+}
+.content .join_us
+{
+    position: relative;
+    font-size: 12px;
+    text-transform: none;
+    font-weight: normal;
+    margin-bottom: 20px;   
+}
+.content .join_us span{
+    color: #808080;
+}
+.content .link
+{
+    position: relative;
+    background: #393939;
+    top: 20px;
+    height: 80px;
+}
+.content .link img
+{
+    position: relative;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+    width: 60px;
+}
+.content .link p
+{
+    position: relative;
+    font-size: 15px;
+    top: -60px;
+    background: #393939;
+    text-transform: none;
+    font-weight: bold;
+    margin-left: 90px;
+}
+.content .link a{
+    position: relative;
+    color: white;
+    text-decoration: none;
+    background: red;
+    top: -65px;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 3px;
+    margin-left: 90px;
 }
