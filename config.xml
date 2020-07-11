@@ -5,9 +5,10 @@
         This app for Crew Future jis for dancer
     </description>
     <author email="amanrathod777@gmail.com">
-        Apache Cordova Team
+        Crew Future jis
     </author>
     <content src="index.html"/>
+    <content src="img/futurejis.jpeg">
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
