@@ -8,7 +8,6 @@
         Crew Future jis
     </author>
     <content src="index.html"/>
-    <content src="img/futurejis.jpeg">
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
