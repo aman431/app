@@ -6,7 +6,7 @@
 }
 .cointainer
 {
-    height: 800px;
+    height: 1000px;
 }
 .main-nav
 {
@@ -54,6 +54,8 @@
     position: fixed;
     top: 0px;
     width: 100%;
+    color: #fff;
+    /*background: #333;*/
 }
 .a1{
     display: block;
@@ -145,4 +147,26 @@
     padding-right: 30px;
     border-radius: 3px;
     margin-left: 90px;
+}
+.video
+{
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.video .video_title
+{
+    font-weight: normal;
+    color: #808080;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.video iframe
+{
+    margin-right: 20px;
+    margin-top: 4px;
 }
