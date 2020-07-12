@@ -49,14 +49,14 @@
     width: 60px;
     border-color: black;
 }
-.sticky
+/*.sticky
 {
     position: fixed;
     top: 0px;
     width: 100%;
     color: #fff;
-    /*background: #333;*/
-}
+    background: #333;
+}*/
 .a1{
     display: block;
 }
