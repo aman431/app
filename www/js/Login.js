@@ -9,12 +9,11 @@ onclick.addEventListener('click' , function(){
 	}
 	else if(name === "" || pass=== "")
 	{
-		document.open("error.html");
 		alert("Field should not be empty");
 	}
 	else
 	{
-		document.open("error.html");
+//		document.open("error.html");
 		alert("Try again");
 	}
 });
